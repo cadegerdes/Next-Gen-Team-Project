@@ -1,5 +1,6 @@
 # - Next Generation -
 We are an online credit card business focused on the well-being of our customers. 
+![](/images/Logo.png)
 
 ## Business Model
 | Name | GitHub Handle |
