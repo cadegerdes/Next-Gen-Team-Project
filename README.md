@@ -5,5 +5,4 @@ We are an online credit card business focused on the well-being of our customers
 
 ## Business Model
 | 1 | 2 |
-| ---  | ---           |
-
+| ---  | --- |
