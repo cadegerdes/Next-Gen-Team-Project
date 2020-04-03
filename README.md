@@ -3,6 +3,9 @@ We are an online credit card software company focused on becoming accessible to 
 
 <img src="/images/Logo.png" width="100">
 
+[Our Mission](/T1.md)
+
+
 ## Business Model
 | Value Proposition | [Channels](/T2.md) |
 | --- | --- |
