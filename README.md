@@ -1,5 +1,5 @@
 # - Next Generation -
-We are an online credit card business focused on the well-being of our customers. 
+We are an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
 
 <img src="/images/Logo.png" width="100">
 
