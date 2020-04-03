@@ -5,18 +5,20 @@ We are an online credit card software company focused on becoming accessible to 
 
 
 ## Business Model
-| [Value Propositions](/T1.md) | [Channels](/T2.md) |
-| ---------------------------- | --- |
-| - Online website/software    | - |
-| - Credit card services       | - |
-| - Credit/Account monitoring  | - |
-| - Local banking              | - |
-| - Security                   | - |
+| [Value Propositions](/T1.md) | [Channels](/T2.md)         |
+| ---------------------------- | -------------------------- |
+| - Online website/software    | - Advertisements           |
+| - Credit card services       | - TV stations/broadcasting |
+| - Credit/Account monitoring  | - Word of mouth            |
+| - Local banking              |                            |
+| - Security                   |                            |
 
 | [Customers](/T1.md)            | [Customer Relationships](/T2.md) |
-| ------------------------------ | --- |
-| - African developing countries | - |
-| - Those without credit cards   | - |
+| ------------------------------ | -------------------------------- |
+| - African developing countries | - Professional & trusting        |
+| - Those without credit cards   | - Mailing list                   |
+|                                | - Local bank feedback            |
+|                                | - 24/7 online support            |
 
 | Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
