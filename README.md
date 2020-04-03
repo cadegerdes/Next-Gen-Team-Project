@@ -3,8 +3,6 @@ We are an online credit card software company focused on becoming accessible to 
 
 <img src="/images/Logo.png" width="150">
 
-
-
 ## Business Model
 | [Value Propositions](/T1.md) | [Channels](/T2.md)         |
 | ---------------------------- | -------------------------- |
@@ -28,6 +26,5 @@ We are an online credit card software company focused on becoming accessible to 
 | Costs | Revenue |
 | --- | --- |
 | - | - |
-
 
 <img src="/images/Business%20Model.png" width="500">
