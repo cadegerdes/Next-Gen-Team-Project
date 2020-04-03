@@ -1,12 +1,7 @@
 # - Next Generation -
 We are an online credit card business focused on the well-being of our customers. 
 
-| __Animals__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
-
-
+## Business Model
 | Name | GitHub Handle |
 | ---  | ---           |
 |Adam| @astrasser6  |
