@@ -6,7 +6,7 @@ We are an online credit card business focused on the well-being of our customers
 ## Business Model
 | Value Proposition | [Channels](/T2.md) |
 | --- | --- |
-| - | - |
+| * Ok so this is how | * Bullet points should work |
 
 | Customers | [Customer Relationships](/T2.md) |
 | --- | --- |
