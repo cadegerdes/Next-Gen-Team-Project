@@ -12,7 +12,7 @@ We are an online credit card business focused on the well-being of our customers
 | --- | --- |
 | - | - |
 
-| Key Partners | Key Activities | Key Resources |
+| Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
 | - | - | - |
 
