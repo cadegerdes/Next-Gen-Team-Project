@@ -9,6 +9,8 @@ We are an online credit card software company focused on becoming accessible to 
 ## Business Model
 | [Value Proposition](/T1.md) | [Channels](/T2.md) |
 | --- | --- |
+dd 
+ddd
 | - | - |
 
 | [Customers](/T1.md) | [Customer Relationships](/T2.md) |
