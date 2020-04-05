@@ -9,8 +9,9 @@ We are an online credit card software company focused on becoming accessible to 
 ## Business Model
 | [Value Proposition](/T1.md) | [Channels](/T2.md) |
 | --- | --- |
-DD|dd
-| - | - |
+Developing African countries need
+credit cards to buy products online.|Connect with multiple forms of communication
+
 
 | [Customers](/T1.md) | [Customer Relationships](/T2.md) |
 | --- | --- | 
