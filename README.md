@@ -13,7 +13,7 @@ We are an online credit card software company focused on becoming accessible to 
 
 | Customers | [Customer Relationships](/T2.md) |
 | --- | --- | 
-ddd
+Citizens in developing African countries
 | - | - |
 
 | Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
@@ -23,6 +23,6 @@ ddd
 | Costs | Revenue |
 | --- | --- |
 | - | - |
-j
+
 
 <img src="/images/Business%20Model.png" width="500">
