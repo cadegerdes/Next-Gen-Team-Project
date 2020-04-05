@@ -22,6 +22,6 @@ We are an online credit card software company focused on becoming accessible to 
 | Costs | Revenue |
 | --- | --- |
 | - | - |
-
+j
 
 <img src="/images/Business%20Model.png" width="500">
