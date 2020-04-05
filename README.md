@@ -14,12 +14,14 @@ Developing African countries need credit cards to buy products online.|Connect w
 
 | [Customers](/T1.md) | [Customer Relationships](/T2.md) |
 | --- | --- | 
-| - | - |
+Citizens in developing African countires. | We want a strong, trustworthy relation.
+
 
 
 | Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
-| - | - | - |
+Local banks | Online platform for easy purcahsing and physical cards. | Local banks to provide income and a server to host.
+
 
 | Costs | Revenue |
 | --- | --- |
