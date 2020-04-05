@@ -7,15 +7,14 @@ We are an online credit card software company focused on becoming accessible to 
 
 
 ## Business Model
-| Value Proposition | [Channels](/T2.md) |
+| [Value Proposition](/T1.md) | [Channels](/T2.md) |
 | --- | --- |
 | - | - |
 
 | Customers | [Customer Relationships](/T2.md) |
 | --- | --- | 
-Citizens in developing African countries
 | - | - |
-ddd
+
 
 | Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
