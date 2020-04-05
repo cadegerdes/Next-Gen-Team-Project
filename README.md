@@ -11,7 +11,7 @@ We are an online credit card software company focused on becoming accessible to 
 | --- | --- |
 | - | - |
 
-| Customers | [Customer Relationships](/T2.md) |
+| [Customers](/T1.md) | [Customer Relationships](/T2.md) |
 | --- | --- | 
 | - | - |
 
