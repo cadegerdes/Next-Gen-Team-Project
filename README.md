@@ -15,6 +15,7 @@ We are an online credit card software company focused on becoming accessible to 
 | --- | --- | 
 Citizens in developing African countries
 | - | - |
+ddd
 
 | Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
