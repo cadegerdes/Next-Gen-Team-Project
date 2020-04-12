@@ -2,6 +2,7 @@
 We are an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
 
 [Our Mission](/T1.md)
+
 [Our Website](/T4.md)
 
 <img src="/images/Logo.png" width="150">
