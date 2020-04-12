@@ -3,6 +3,8 @@ We are an online credit card software company focused on becoming accessible to 
 
 [Our Mission](/T1.md)
 
+[Our Website](/T4.md)
+
 <img src="/images/Logo.png" width="150">
 
 
@@ -18,7 +20,7 @@ Citizens in developing African countires. | We want a strong, trustworthy relati
 
 
 
-| Key Partners | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
+| [Key Partners](/T4.md) | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
 | --- | --- | --- |
 Local banks | Online platform for easy purcahsing and physical cards. | Local banks to provide income and a server to host.
 
