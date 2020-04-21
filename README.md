@@ -7,27 +7,20 @@ Not everyone has access to credit cards like most of those in developed countrie
 ## Website
 [Our Website](/Website.md)
 
+### ! Our old business model stuff is here but in comments !
+<!--
+Value Proposition - Developing African countries need credit cards to buy products online.
+Channels - Connect with multiple forms of communication.
+Customers - Citizens in developing African countires.
+Customer Relationships - We want a strong, trustworthy relation.
+Key Partners - Local banks and cloud servers.
+Key Activities - Online platform for easy purcahsing and physical cards.
+Key Resources - Local banks to provide income and a server to host.
+Costs - Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Africa.
+Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transaction charges with 15-20% APR.
+-->
+
 ## Business Model
-| [Value Proposition](/T1.md) | [Channels](/T2.md) |
-| --- | --- |
-Developing African countries need credit cards to buy products online. | Connect with multiple forms of communication.
-
-
-| [Customers](/T1.md) | [Customer Relationships](/T2.md) |
-| --- | --- | 
-Citizens in developing African countires. | We want a strong, trustworthy relation.
-
-
-
-| [Key Partners](/T4.md) | [Key Activities](/T3.md) | [Key Resources](/T3.md) |
-| --- | --- | --- |
-Local banks and cloud servers. | Online platform for easy purcahsing and physical cards. | Local banks to provide income and a server to host.
-
-
-| [Costs](/T5.md) | [Revenue](/T5.md) |
-| --- | --- |
-Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Africa. | Key donors and sponsers, merchandise, bank card fees, and 1-2% transaction charges with 15-20% APR.
-
 <table>
   <tr>
     <td rowspan="2">
