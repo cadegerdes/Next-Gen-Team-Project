@@ -1,13 +1,13 @@
 # - Next Generation -
 <img src="/images/Logo.png" width="150">
 
-## Summary of Business
-We are an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
+## Summary
+Not everyone has access to credit cards like most of those in developed countries. Next Generation is an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
 
-## Website of Business
-[Our Website](/T4.md)
+## Website
+[Our Website]()
 
-## Business Model Canvas
+## Business Model
 | [Value Proposition](/T1.md) | [Channels](/T2.md) |
 | --- | --- |
 Developing African countries need credit cards to buy products online. | Connect with multiple forms of communication.
