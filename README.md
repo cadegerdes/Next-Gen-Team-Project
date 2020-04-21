@@ -5,7 +5,7 @@
 Not everyone has access to credit cards like most of those in developed countries. Next Generation is an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
 
 ## Website
-[Our Website]()
+[Our Website](/Website.md)
 
 ## Business Model
 | [Value Proposition](/T1.md) | [Channels](/T2.md) |
@@ -31,20 +31,20 @@ Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Afric
 <table>
   <tr>
     <td rowspan="2">
-      <b><a href="Key_Partners.md">Key Partners</a></b>
+      <b><a href="Key Partners.md">Key Partners</a></b>
       <p>Who are our Key Partners?<br>
       Who are our key suppliers?<br>
       Which Key Activities do partners perform?</p>
     </td>
     <td>
-      <b><a href="Key_Activities.md">Key Activities</a></b>
+      <b><a href="Key Activities.md">Key Activities</a></b>
       <p>What Key Activities do our Value Propositions require?<br>
       Our Distribution Channels?<br>
       Customer Relationships?<br>
       Revenue Streams?</p>
     </td>
     <td rowspan="2" colspan="2">
-      <b><a href="Value_Propositions.md">Value Propositions</a></b>
+      <b><a href="Value Propositions.md">Value Propositions</a></b>
       <p>What value do we deliver to the customer?<br>
       Which one of our customer's problems are we helping to solve?<br>
       What bundles of products and services are we offering to each Customer Segment?<br>
@@ -54,19 +54,19 @@ Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Afric
       <br><br><br><br><br>
     </td>
     <td>
-      <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
+      <b><a href="Customer Relationships.md">Customer Relationships</a></b>
       <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
       Which ones have we established?</p>
     </td>
     <td rowspan="2">
-      <b><a href="Customer_Segments.md">Customer Segments</a></b>
+      <b><a href="Customer Segments.md">Customer Segments</a></b>
       <p>For whom are we creating value?<br>
       Who are our most important customers?</p>
     </td>
   </tr>
   <tr>
     <td>
-      <b><a href="Key_Resources.md">Key Resources</a></b>
+      <b><a href="Key Resources.md">Key Resources</a></b>
       <p>What Key Resources do our Value Propositions require?<br>
       Our Distribution Channels?<br>
         Customer Relationships?<br>
@@ -81,14 +81,14 @@ Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Afric
   </tr>
   <tr>
     <td colspan="3">
-      <b><a href="Financial_Plan.md">Cost Structure</a></b>
+      <b><a href="Financial Plan.md">Cost Structure</a></b>
       <p>What are the most important costs to our business?<br>
       Which Key Resources are most expensive?<br>
       Which Key Activities are most expensive?<br>
       How does it coes to establish and run the business?</p>
     </td>
     <td colspan="3">
-      <b><a href="Financial_Plan.md">Revenue Streams</a></b>
+      <b><a href="Financial Plan.md">Revenue Streams</a></b>
       <p>For what value are customers willing to pay? <br>
       How would they prefer to pay? <br>
       What is the revenue structure?</p>
