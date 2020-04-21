@@ -38,7 +38,7 @@ Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transac
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value Propositions.md">Value Propositions</a></b>
-      <p>Our goal is to provide Africans the ability to shop online using services such as Amazon, Walmart, or other local businesses. With credit cards will also provide credit and account monitoring, communication with banks, and security.
+      <p>Our goal is to provide Africans the ability to shop online using services such as Amazon, Walmart, or other local businesses. With credit cards we will also provide credit and account monitoring, communication with banks, and security.
     </td>
     <td>
       <b><a href="Customer Relationships.md">Customer Relationships</a></b>
