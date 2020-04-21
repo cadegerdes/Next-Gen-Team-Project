@@ -60,8 +60,7 @@ Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Afric
     </td>
     <td rowspan="2">
       <b><a href="Customer Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>Approximately 9 out of 10 transactions in Africa are made with cash, so our initial customer segment will be directed toward large African cities including Nairobi, Lagos, and Johannesburg.</p>
     </td>
   </tr>
   <tr>
