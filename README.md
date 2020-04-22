@@ -2,7 +2,7 @@
 <img src="/images/Logo.png" width="150">
 
 ## Summary
-Not everyone has access to credit cards like most of those in developed countries. Next Generation is an online credit card software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online banking and access to credit cards to those in need.
+Not everyone has access to credit cards like most of those in developed countries. Next Generation is an online credit card and shopping software company focused on becoming accessible to developing countries in Africa. Through partnering with local banks, our goal is to provide online shopping through our credit cards to those in need.
 
 ## Website
 [Our Website](/Website.md)
