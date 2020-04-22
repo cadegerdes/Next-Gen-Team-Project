@@ -38,7 +38,12 @@ Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transac
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value Propositions.md">Value Propositions</a></b>
-      <p>Our goal is to provide Africans the ability to shop online using services such as Amazon, Walmart, or other local businesses. With credit cards we will also provide credit and account monitoring, communication with banks, and security.
+      <p>What value do we deliver to the customer?
+Which one of our customer's problems are we helping to solve?
+What bundles of products and services are we offering to each Customer Segment?
+are different and
+worth paying
+attention
     </td>
     <td>
       <b><a href="Customer Relationships.md">Customer Relationships</a></b>
@@ -47,7 +52,8 @@ Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transac
     </td>
     <td rowspan="2">
       <b><a href="Customer Segments.md">Customer Segments</a></b>
-      <p>Approximately 9 out of 10 transactions in Africa are made with cash, so our initial customer segment will be directed toward large African cities including Nairobi, Lagos, and Johannesburg.</p>
+      <p>For whom are we creating value?
+Who are our most important customers?</p>
     </td>
   </tr>
   <tr>
