@@ -7,11 +7,6 @@ Not everyone has access to credit cards like most of those in developed countrie
 ## Website
 [Our Website](/Website.md)
 
-### ! Our old business model stuff is here but in comments !
-<!--
-Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transaction charges with 15-20% APR.
--->
-
 ## Business Model
 <table>
   <tr>
