@@ -9,14 +9,6 @@ Not everyone has access to credit cards like most of those in developed countrie
 
 ### ! Our old business model stuff is here but in comments !
 <!--
-Value Proposition - Developing African countries need credit cards to buy products online.
-Channels - Connect with multiple forms of communication.
-Customers - Citizens in developing African countires.
-Customer Relationships - We want a strong, trustworthy relation.
-Key Partners - Local banks and cloud servers.
-Key Activities - Online platform for easy purcahsing and physical cards.
-Key Resources - Local banks to provide income and a server to host.
-Costs - Cloud servers are $320/mn, employee wages are $12/hr, and advertisement in Africa.
 Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transaction charges with 15-20% APR.
 -->
 
@@ -25,65 +17,53 @@ Revenue - Key donors and sponsers, merchandise, bank card fees, and 1-2% transac
   <tr>
     <td rowspan="2">
       <b><a href="Key Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <p> Our key parners are local banks and cloud servers to have our business accessbile and reliable.
+      </p>
     </td>
     <td>
       <b><a href="Key Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p> Our key activities for our business is our website for easy purcahsing and physical cards, as well as distribution of the cards, advirtisement in Africa, and funding projects.
+      </p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value Propositions.md">Value Propositions</a></b>
-      <p>What value do we deliver to the customer?
-Which one of our customer's problems are we helping to solve?
-What bundles of products and services are we offering to each Customer Segment?
-are different and
-worth paying
-attention
+      <p> Our goal is to provide Africans with access to online shopping through an online credit card. We will have credit and account monitoring and a high priority on security.
+      </p>
     </td>
     <td>
       <b><a href="Customer Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p> We want a strong, trustworthy relation with our customers in Africa.
+      </p>
     </td>
     <td rowspan="2">
       <b><a href="Customer Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?
-Who are our most important customers?</p>
+      <p> Our customer segment are citizens in developing African countries, including large cities such as Nairobi, Lagos, and Johannesburg.
+      </p>
     </td>
   </tr>
   <tr>
     <td>
       <b><a href="Key Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p> Our key resources include our cloud servers to host our website, as well as the distribution services of our credit card.
+      </p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p> We will connect with our customers through multiple forms of communication including our website, helplines, a mailing list, and especially advertising.
+      </p>
     </td>
   </tr>
   <tr>
     <td colspan="3">
       <b><a href="Financial Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>
+      Our major costs include cloud servers at $320/mn and advertisement in Africa ranging up to $100 CPM, leading to an overall estimate of a monthly upkeep of $50,000 in the first few years.
+      </p>
     </td>
     <td colspan="3">
       <b><a href="Financial Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p> Our major revenue streams include transaction fees for our credit card at 1-2%, as well as a small amount of advirtisement on our website. With 300,000 page views per month, our revenue will reach $60,000 or greater. Sponserships and merchandise will support us until we gain a foothold.
+      </p>
     </td>
   </tr>
 </table>
