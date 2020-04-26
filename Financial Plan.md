@@ -2,6 +2,12 @@
 
 Ads - $100 CPM (/1000 impressions)
 
+** Costs
+You provide a description of costs and some isolated numbers. Please do research into actual costs for your business. Then, create a table showing how the costs are expected to change for: startup costs, first year, second year, third year. For each of these four columns, calculate the total cost.
+
+** Revenue
+Please estimate how much people will be using your service, how much they would pay, and calculate for each year the total revenue you expect. Add this and your source of startup funds to the table you have for costs. Then subtract the total cost you expect. Based on your dollar estimates, will your conclusion about success be the same or different?
+
 | Costs | Startup | First Year | Second Year | Third Year |
 | ----- | ------- | ---------- | ----------- | ---------- |
 | Cloud Servers      | $3,840   | $3,840   | $3,840   | $3,840   |
