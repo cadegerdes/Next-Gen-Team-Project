@@ -52,12 +52,12 @@ Not everyone has access to credit cards like most of those in developed countrie
     <td colspan="3">
       <b><a href="Financial Plan.md">Cost Structure</a></b>
       <p>
-      Our major costs include cloud servers at $320/mn and advertisement in Africa ranging up to $100 CPM, leading to an overall estimate of a monthly upkeep of $50,000 in the first few years.
+      Our major costs include cloud servers, employment, and advertisement in Africa ranging up to $100 CPM, leading to a yearly cost of $355,000 in our third year.
       </p>
     </td>
     <td colspan="3">
       <b><a href="Financial Plan.md">Revenue Streams</a></b>
-      <p> Our major revenue streams include transaction fees for our credit card at 1-2%, as well as a small amount of advirtisement on our website. With 300,000 page views per month, our revenue will reach $60,000 or greater. Sponserships and merchandise will support us until we gain a foothold.
+      <p> Our major revenue streams include transaction fees for our credit card at 1-2%, as well as a small amount of advirtisement on our website. With 300,000 page views per month, we will break even at $400,000 yearly revenue in our third year. Sponserships and merchandise will support us until we gain a foothold.
       </p>
     </td>
   </tr>
