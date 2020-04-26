@@ -11,8 +11,8 @@ Please estimate how much people will be using your service, how much they would 
 | Costs | Startup | First Year | Second Year | Third Year |
 | ----- | ------- | ---------- | ----------- | ---------- |
 | Cloud Servers      | $3,840   | $3,840   | $3,840   | $3,840   |
-| Advertisement      | $10,000  | $20,000  | $60,000  | $120,000 |
-| Employees          | $0       | $55,000  | $80,000  | $130,000 |
+| Advertisement      | $10,000  | $70,000  | $80,000  | $120,000 |
+| Employees          | $0       | $55,000  | $100,000 | $130,000 |
 | Partnerships/Misc. | $200,000 | $100,000 | $100,000 | $100,000 |
 
 | Revenue | Startup | First Year | Second Year | Third Year |
@@ -24,6 +24,6 @@ Please estimate how much people will be using your service, how much they would 
 
 | Total | Startup | First Year | Second Year | Third Year |
 | ----- | ------- | ---------- | ----------- | ---------- |
-| Costs    | $213,840  | $178,840 | $243,840 | $353,840 |
+| Costs    | $213,840  | $228,840 | $283,840 | $353,840 |
 | Revenue  | $50,000   | $98,000  | $215,000 | $400,000 |
-| Estimate | -$163,840 | -$80,840 | -$28,840 | $46,160  |
+| Estimate | -$163,840 | -$130,840 | -$68,840 | $46,160 |
