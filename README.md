@@ -17,7 +17,7 @@ Not everyone has access to credit cards like most of those in developed countrie
     </td>
     <td>
       <b><a href="Key Activities.md">Key Activities</a></b>
-      <p> Our key activities for our business is our website for easy purcahsing and physical cards, as well as distribution of the cards, advirtisement in Africa, and funding projects.
+      <p> Our key activities for our business is our website for easy purchasing and physical cards, as well as distribution of the cards, advirtisement in Africa, and funding projects.
       </p>
     </td>
     <td rowspan="2" colspan="2">
