@@ -1,1 +1,2 @@
 # Key Activities
+Our key activity we be providing credit cards through local banks that are utilized through our online shopping platform that we develop. We will develop and maintain this online platform for people in Africa to buy products online. Our physical cards are bought from the local banks that we are partnered with, and Next Generation will be helping to solve the problem of online shopping in Africa. There is almost no online shopping presence in Africa, and we feel we can offer both services to run our business smoothly. 
